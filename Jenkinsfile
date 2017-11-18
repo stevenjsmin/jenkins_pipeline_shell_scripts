@@ -8,5 +8,4 @@ node {
    		sh './myBuild.sh'
    	stage 'Deploy'
    		sh './myDeployment.sh'
-  
 }
